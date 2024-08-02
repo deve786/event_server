@@ -1,0 +1,88 @@
+{
+  "admin": [
+    {
+      "id": 1,
+      "email": "admin@mail.com",
+      "password": "12345"
+    }
+  ],
+  "events": [
+    {
+      "event_name": "workshop",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores eius libero a quas voluptatum exercitationem reiciendis suscipit impedit debitis facere repellat, placeat esse necessitatibus soluta quisquam quaerat veniam. Iste, sapiente?",
+      "location": "dubai,UAE",
+      "date": "12.02.2000",
+      "time": "12:00 PM",
+      "image": "https://uploads-ssl.webflow.com/5f7460faf30b9634ccd3c2a8/651a877bffd49c7ce8c1f6d2_workshop.jpg",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "event_name": "conference",
+      "location": "new york",
+      "image": "https://fourwaves.com/media/jjtaaupz/conference-speaker.jpg?rmode=max&width=1000",
+      "date": "15.03.2021",
+      "time": "09:00 AM",
+      "description": "Join industry leaders and experts for a day of insightful talks and networking opportunities at our annual conference. Gain valuable knowledge and connections to advance your career."
+    },
+    {
+      "event_name": "meetup",
+      "description": "Network with like-minded professionals and enthusiasts at our monthly meetup. Enjoy engaging discussions, presentations, and opportunities to share your experiences.",
+      "location": "san francisco",
+      "date": "20.04.2022",
+      "time": "06:00 PM",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEewTGxijx_xEiq-pmbeAuP_RPblZXZcRSlQ&s",
+      "id": 3
+    },
+    {
+      "event_name": "seminar",
+      "description": "Attend our in-depth seminar to learn from industry experts about the latest trends and technologies. Enhance your skills and knowledge through interactive sessions and hands-on workshops.",
+      "location": "london",
+      "date": "10.05.2023",
+      "time": "02:00 PM",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ZvUmwSvkAXtUWf791jCh5piWvRAvFWhTug&s",
+      "id": 4
+    },
+    {
+      "event_name": "exhibition",
+      "description": "Discover the latest innovations and trends at our annual exhibition. Explore exhibits from leading companies, meet industry professionals, and get hands-on experience with new products.",
+      "location": "tokyo",
+      "date": "25.06.2024",
+      "time": "11:00 AM",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_nSFVvQbtipxaO4YrJjfFouwCLutItd7WmQ&s",
+      "id": 5
+    }
+  ],
+  "contact": [
+    {
+      "id": 1,
+      "name": "Ajay",
+      "email": "ajay@gmail.com",
+      "message": "Superr..."
+    },
+    {
+      "name": "asd",
+      "email": "ijasahmediku987@gmail.com",
+      "message": "asdasd",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": "",
+      "id": 3
+    },
+    {
+      "name": "asd",
+      "email": "ijasahmediku987@gmail.com",
+      "message": "asd",
+      "id": 4
+    },
+    {
+      "name": "Ajay",
+      "email": "ajay@gmail.com",
+      "message": "superb...",
+      "id": 5
+    }
+  ]
+}
